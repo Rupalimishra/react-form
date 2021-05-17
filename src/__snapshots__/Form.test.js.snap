@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render initial layout 1`] = `
+Array [
+  <div>
+    <div
+      className="form-container"
+    >
+      <FormSignup
+        submitForm={[Function]}
+      />
+    </div>
+  </div>,
+]
+`;
